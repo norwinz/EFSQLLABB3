@@ -9,7 +9,7 @@ namespace EFSQLLABB3
 {
     class Program
     {
-        
+        /*PROJEKT DB DAN GUSTAFSSON SUT-21*/
 
         static void Main(string[] args)
         {
